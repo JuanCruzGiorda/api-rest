@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caché de archivos locales de Vue.js
+/node_modules/
+npm-debug.log
+
+# Carpeta de compilación de Vue.js
+/dist/
+
+# Carpeta de archivos estáticos de Django
+/static/
+
+# Entorno virtual de Python
+venv/
+*.pyc
+
+# Archivo de configuración de desarrollo local
+.env
+
+# Otros archivos generados
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+
+# Archivo de base de datos SQLite
+*.sqlite3
+
+# Dependiendo de tu configuración, podrías necesitar excluir otros archivos también
